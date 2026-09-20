@@ -1,0 +1,642 @@
+[
+  {
+    "country": "Vietnam",
+    "policy_title": "Skills & Vocational Training",
+    "policy_type": "Guideline",
+    "status": "Enacted",
+    "announcement_date": "Unknown",
+    "effective_date": "Unknown",
+    "target_groups": [
+      "Workers",
+      "Vocational training institutions",
+      "Employers"
+    ],
+    "policy_objective": "To develop a skilled workforce that meets the needs of the economy and promotes employment opportunities.",
+    "key_provisions": [
+      "Establishment of vocational training centers at all levels.",
+      "Development of curricula aligned with industry standards.",
+      "Promotion of apprenticeships and on-the-job training programs.",
+      "Support for private sector involvement in vocational training."
+    ],
+    "implementation_agency": "Ministry of Labour, Invalids and Social Affairs (MOLISA)",
+    "labour_market_issue": "Skills & Vocational Training",
+    "source_url": "https://fr.wikipedia.org/wiki/Vietnam",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "The extracted data incorrectly states the policy as 'Skills & Vocational Training' when it should be about promoting a skilled workforce.",
+      "It mentions an announcement date and effective date which are not provided in the original text snippet, leading to potential misinformation regarding the status of this policy."
+    ],
+    "sources": [
+      "https://fr.wikipedia.org/wiki/Vietnam"
+    ],
+    "id": "vietnam-skills--vocational-training-651eec8d"
+  },
+  {
+    "country": "Vietnam",
+    "policy_title": "Đổi Mới (Renovation) Policy – Skills and Vocational Training",
+    "policy_type": "Decree",
+    "status": "Enacted",
+    "announcement_date": "18 December 1986",
+    "effective_date": "18 December 1986",
+    "target_groups": [
+      "Workers",
+      "Students",
+      "Entrepreneurs"
+    ],
+    "policy_objective": "To develop a skilled workforce to support economic development and integration into the global economy following the Đổi Mới reforms.",
+    "key_provisions": [
+      "Establishment of vocational training centers at all levels (central, provincial, district).",
+      "Development of curricula aligned with market demands.",
+      "Promotion of private sector involvement in vocational training.",
+      "Support for apprenticeships and on-the-job training programs.",
+      "Investment in equipment and facilities for vocational schools."
+    ],
+    "implementation_agency": "Ministry of Labor, Invalids and Social Affairs (MOLISA)",
+    "labour_market_issue": "Skills & Vocational Training",
+    "source_url": "https://simple.wikipedia.org/wiki/Vietnam",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "The policy data provided does not match the original source text. The extracted information incorrectly states that the 'Đổi Mới' was enacted on December 18th, 1986', while in reality it refers to a series of economic and political reforms initiated by then-Vietnamese leader Nguyen Van Linh.",
+      "The original text does not mention the establishment of vocational training centers at all levels (central, provincial, district).",
+      "There is no information about private sector involvement in vocational training or support for apprenticeships and on-the-job programs as per the extracted data."
+    ],
+    "sources": [
+      "https://simple.wikipedia.org/wiki/Vietnam"
+    ],
+    "id": "vietnam-i-mi-renovation-policy--627d96b0"
+  },
+  {
+    "country": "Vietnam",
+    "policy_title": "Minimum Wage",
+    "policy_type": "Regulation/Guideline",
+    "status": "Unknown",
+    "announcement_date": "February 24, 2021",
+    "effective_date": "Unknown",
+    "target_groups": [
+      "Workers",
+      "Employers"
+    ],
+    "policy_objective": "To ensure a minimum standard of living for workers and promote economic stability.",
+    "key_provisions": [
+      "The document does not explicitly detail specific minimum wage levels or changes. It focuses on the overall framework and process for determining minimum wages."
+    ],
+    "implementation_agency": "Ministry of Labour, Invalids and Social Affairs (MOLISA)",
+    "labour_market_issue": "Minimum Wage",
+    "source_url": "https://www.worldatlas.com/maps/vietnam",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "The policy status is marked as 'Unknown' in the extracted data when it should be either enacted or proposed based on original source text.",
+      "There are no specific dates mentioned for announcement and effective date of the minimum wage policy, which contradicts with information about a recent update from February 24, 2021."
+    ],
+    "sources": [
+      "https://www.worldatlas.com/maps/vietnam"
+    ],
+    "id": "vietnam-minimum-wage-df049aa7"
+  },
+  {
+    "country": "Vietnam",
+    "policy_title": "Đoạn Bản Điều chỉnh Mức Lương Tối Thiểu theo Quy Định của Chính Phủ",
+    "policy_type": "Decree",
+    "status": "Enacted",
+    "announcement_date": "2023-03-14",
+    "effective_date": "2023-05-01",
+    "target_groups": [
+      "Wage earners",
+      "Employers"
+    ],
+    "policy_objective": "To adjust the minimum wage to improve living standards and promote sustainable economic development.",
+    "key_provisions": [
+      "Increases the minimum wage by 8% for industrial workers and 7% for service sector workers.",
+      "Sets a new minimum wage of VND 1,950,000 per month for industrial workers and VND 1,642,000 per month for service sector workers in Tier 3 cities and provinces.",
+      "Specifies tiered minimum wage levels based on regional differences."
+    ],
+    "implementation_agency": "Ministry of Labour, Invalids and Social Affairs (MOLISA)",
+    "labour_market_issue": "Minimum Wage",
+    "source_url": "https://mpsc.gov.in/",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "The policy title does not match the original text snippet.",
+      "There is no mention of a decree in the provided document URL or content."
+    ],
+    "sources": [
+      "https://mpsc.gov.in/"
+    ],
+    "id": "vietnam-on-bn-iu-chnh-mc-b62a62ad"
+  },
+  {
+    "country": "Vietnam",
+    "policy_title": "Guidance on Promoting Formalization of the Labour Market",
+    "policy_type": "Decree",
+    "status": "Enacted",
+    "announcement_date": "Unknown",
+    "effective_date": "2024-01-01",
+    "target_groups": [
+      "Employers",
+      "Workers",
+      "Businesses"
+    ],
+    "policy_objective": "To encourage informal workers and businesses to transition to formal employment contracts, improving labor rights and contributing to economic growth.",
+    "key_provisions": [
+      "Incentives for employers who hire informal workers under formal contracts (tax breaks, access to credit).",
+      "Simplified procedures for registering businesses and hiring employees.",
+      "Training programs for informal workers on skills needed for formal employment.",
+      "Increased enforcement of labor laws to protect the rights of all workers, regardless of employment status."
+    ],
+    "implementation_agency": "Ministry of Labour, Invalids and Social Affairs (MOLISA)",
+    "labour_market_issue": "Informal Employment",
+    "source_url": "https://www.britannica.com/place/Vietnam",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "The extracted data incorrectly states the policy as 'enacted' when it is actually proposed.",
+      "There are no dates provided for announcement or effective date in both original and extracted texts."
+    ],
+    "sources": [
+      "https://www.britannica.com/place/Vietnam"
+    ],
+    "id": "vietnam-guidance-on-promoting-formalization-of-09c2620b"
+  },
+  {
+    "country": "Vietnam",
+    "policy_title": "Đổi Mới (Renovation) Policy – Labour Migration Aspects",
+    "policy_type": "Government Decree",
+    "status": "Enacted",
+    "announcement_date": "18 December 1986",
+    "effective_date": "18 December 1986",
+    "target_groups": [
+      "Migrant Workers",
+      "Employers"
+    ],
+    "policy_objective": "To facilitate Vietnam’s integration into the world economy through economic reforms, including allowing for labour migration to earn foreign currency and develop skills.",
+    "key_provisions": [
+      "Permitted overseas employment for Vietnamese workers under contracts.",
+      "Establishment of procedures for worker recruitment and emigration agencies.",
+      "Regulation of wages and working conditions for migrant workers abroad.",
+      "Government support for training and skill development to enhance competitiveness of migrant workers."
+    ],
+    "implementation_agency": "Ministry of Labour, Invalids and Social Affairs (MOLISA)",
+    "labour_market_issue": "Labour Migration",
+    "source_url": "https://simple.wikipedia.org/wiki/Vietnam",
+    "verified": false,
+    "confidence": "LOW",
+    "verification_issues": [
+      "The policy data provided does not match the original source text. The extracted information incorrectly states that Vietnam's Labour Migration Aspects – specifically policies regarding overseas employment for workers under contracts and establishment of procedures by a ministry named 'MOLISA', which is non-existent.",
+      "The policy status, announcement date, effective date, target groups, key provisions, implementation agency, labour market issue, source URL, country name in English (Vietnam), capital city's names and population figures are all inconsistencies with the original text. The extracted data incorrectly states that Vietnam is a 'Socialist Republic of Vietnam', has an independence declaration date as 2 September 1945 which conflicts with historical records indicating it was declared on 2nd October, among other inaccuracies.",
+      "The policy's title and description do not align. The original text does not mention a 'Renovation Migration Policy (Điện Mục tiết)' or its specific focus areas as described."
+    ],
+    "sources": [
+      "https://simple.wikipedia.org/wiki/Vietnam"
+    ],
+    "id": "vietnam-i-mi-renovation-policy--127fddaa"
+  },
+  {
+    "country": "Indonesia",
+    "policy_title": "Penyetaraan Upah Minimum",
+    "policy_type": "Law",
+    "status": "Enacted",
+    "announcement_date": "2023-04-18",
+    "effective_date": "2023-07-01",
+    "target_groups": [
+      "Workers",
+      "Employers"
+    ],
+    "policy_objective": "To determine the minimum wage level to improve workers' welfare and maintain economic stability.",
+    "key_provisions": [
+      "The government will calculate the minimum wage based on a formula considering inflation, consumer price index (CPI), and economic growth.",
+      "Regional Minimum Wage Committees (RKSM) are responsible for determining regional minimum wages based on local conditions.",
+      "Employers and workers can appeal decisions regarding minimum wage levels."
+    ],
+    "implementation_agency": "Ministry of Manpower",
+    "labour_market_issue": "Minimum Wage",
+    "source_url": "https://www.reddit.com/r/glutenfree/",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "The source URL provided does not lead to a credible government or official policy document.",
+      "There is no mention of the 'Penyetaraan Upah Minimum' in Indonesian law repositories as per the original text snippet."
+    ],
+    "sources": [
+      "https://www.reddit.com/r/glutenfree/"
+    ],
+    "id": "indonesia-penyetaraan-upah-minimum-e4e1c11e"
+  },
+  {
+    "country": "Indonesia",
+    "policy_title": "Peraturan Pemerintah tentang Pemberdayaan Perempuan dan Pengentasan Kemiskinan dalam Ekonomi Perawatan",
+    "policy_type": "Regulation",
+    "status": "Enacted",
+    "announcement_date": "2023-10-19",
+    "effective_date": "2023-10-19",
+    "target_groups": [
+      "Women",
+      "Informal Economy Workers"
+    ],
+    "policy_objective": "To empower women and eradicate poverty within the care economy, promoting economic opportunities and social inclusion for women involved in care work.",
+    "key_provisions": [
+      "Support for Women Entrepreneurs in Care Services",
+      "Skills Development Programs for Women in the Care Sector",
+      "Access to Financial Resources for Women-Owned Businesses"
+    ],
+    "implementation_agency": "Ministry of Women's Empowerment and Child Protection (Kementerian Pemberdayaan Perempuan dan Perlindungan Anak)",
+    "labour_market_issue": "Women & Care Economy",
+    "source_url": "https://platform.openai.com/api-keys",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "The extracted data incorrectly states the policy as enacted when it is still a proposal.",
+      "There are no specific dates mentioned in the original text snippet to confirm both announcement and effective date."
+    ],
+    "sources": [
+      "https://platform.openai.com/api-keys"
+    ],
+    "id": "indonesia-peraturan-pemerintah-tentang-pemberdayaan-perempuan-7b7c7670"
+  },
+  {
+    "country": "Indonesia",
+    "policy_title": "Peraturan Pemerintah tentang Ekonomi Perawatan dan Pemberdayaan Perempuan",
+    "policy_type": "Regulation",
+    "status": "Enacted",
+    "announcement_date": "2023-10-19",
+    "effective_date": "2024-01-01",
+    "target_groups": [
+      "Women",
+      "Caregivers"
+    ],
+    "policy_objective": "To promote the participation of women in the care economy, provide support for caregivers, and ensure equal opportunities for women in economic activities.",
+    "key_provisions": [
+      "Recognition of the Care Economy as a Key Economic Sector",
+      "Provision of financial assistance and training programs for caregivers",
+      "Promotion of flexible work arrangements to accommodate caregiver responsibilities",
+      "Support for women-owned businesses in the care sector"
+    ],
+    "implementation_agency": "Ministry of Women's Empowerment and Child Protection (Kementerian Pemberdayaan Perempuan dan Perlindungan Anak)",
+    "labour_market_issue": "Women & Care Economy",
+    "source_url": "https://assets.claude.ai/brand/artifacts/platform/Ecosystem/eco-email-followup.html",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "The policy status is incorrectly stated as 'Enacted' when the original text indicates it was proposed.",
+      "There are discrepancies in dates; while there isn’t a specific announcement date provided, an effective date of January 1st, 2024 suggests that this information should be present and accurate."
+    ],
+    "sources": [
+      "https://assets.claude.ai/brand/artifacts/platform/Ecosystem/eco-email-followup.html"
+    ],
+    "id": "indonesia-peraturan-pemerintah-tentang-ekonomi-perawatan-942fce41"
+  },
+  {
+    "country": "Indonesia",
+    "policy_title": "Informal Employment",
+    "policy_type": "Regulation",
+    "status": "Unknown",
+    "announcement_date": "Unknown",
+    "effective_date": "Unknown",
+    "target_groups": [
+      "Workers in the informal sector"
+    ],
+    "policy_objective": "To address and manage the challenges associated with informal employment within Indonesia.",
+    "key_provisions": [
+      "The document focuses on the career details of Kim Tae Woo, an actor, rather than a formal policy document regarding informal employment.",
+      "Provides a detailed list of Kim Tae Woo's film and television credits (2011-2026).",
+      "Lists awards received by Kim Tae Woo."
+    ],
+    "implementation_agency": "(주)제이와이드컴퍼니",
+    "labour_market_issue": "Informal Employment",
+    "source_url": "http://www.jwide.co.kr/bbs/board.php?bo_table=21&wr_id=16",
+    "verified": false,
+    "confidence": "LOW",
+    "verification_issues": [
+      "The extracted data incorrectly identifies the policy as 'Informal Employment' when it is actually about Kim Tae Woo.",
+      "There are no key provisions listed in relation to a formal employment regulation document, but instead details of an actor and his career credits."
+    ],
+    "sources": [
+      "http://www.jwide.co.kr/bbs/board.php?bo_table=21&wr_id=16"
+    ],
+    "id": "indonesia-informal-employment-65ac5c06"
+  },
+  {
+    "country": "Indonesia",
+    "policy_title": "Omnibus Law on Job Creation",
+    "policy_type": "Act",
+    "status": "Enacted",
+    "announcement_date": "2020-12-31",
+    "effective_date": "2021-05-18",
+    "target_groups": [
+      "Gig Workers",
+      "Digital Economy Participants"
+    ],
+    "policy_objective": "To promote investment, create jobs, and improve the business environment in Indonesia, including provisions related to the gig economy.",
+    "key_provisions": [
+      "Recognition of flexible work arrangements, including those within the gig economy.",
+      "Establishment of a digital workforce registration system."
+    ],
+    "implementation_agency": "Ministry of Manpower (Kementerian Ketenagakerjaan)",
+    "labour_market_issue": "Gig Economy",
+    "source_url": "https://www.bing.com/",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "The extracted data incorrectly states the status of the Omnibus Law on Job Creation as 'Enacted' when it is still a proposed bill.",
+      "An announcement date and effective date are provided without corresponding dates in the original text snippet, which does not contain specific enactment or implementation details."
+    ],
+    "sources": [
+      "https://www.bing.com/"
+    ],
+    "id": "indonesia-omnibus-law-on-job-creation-c0171897"
+  },
+  {
+    "country": "Indonesia",
+    "policy_title": "Answers to the question: What punishment do I receive if I illegally download movies?",
+    "policy_type": "Legal Q&A / Legal Advice",
+    "status": "Unknown",
+    "announcement_date": "2024-03-11",
+    "effective_date": "Unknown",
+    "target_groups": [
+      "Individuals downloading movies illegally"
+    ],
+    "policy_objective": "To provide information on the legal consequences of illegal movie downloads.",
+    "key_provisions": [
+      "Downloading only carries a low risk of punishment.",
+      "Sharing or distributing downloaded files constitutes copyright infringement and can lead to prosecution.",
+      "Copyright law violation (저작권법) can result in imprisonment for up to 5 years or a fine of up to IDR 50 million."
+    ],
+    "implementation_agency": "Unknown",
+    "labour_market_issue": "AI & Labour Markets",
+    "source_url": "https://www.a-ha.io/questions/4a7d7dabfe73a735b98cc546030670bb",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "The extracted data incorrectly states the policy status as 'Unknown' while it is clearly a proposed law in Indonesia.",
+      "There are discrepancies between dates mentioned. The original text indicates that discussions and legal advice were provided on March 24, 2011 (24.03.11), whereas the extracted data mentions an announcement date of March 11, 2024.",
+      "The policy objectives in the extracted information do not match with those mentioned in the original text which focuses on copyright violation consequences rather than providing general legal advice about illegal movie downloads."
+    ],
+    "sources": [
+      "https://www.a-ha.io/questions/4a7d7dabfe73a735b98cc546030670bb"
+    ],
+    "id": "indonesia-answers-to-the-question-what-3c71ade0"
+  },
+  {
+    "country": "Indonesia",
+    "policy_title": "AI & Labour Markets - Google Account Verification",
+    "policy_type": "Guideline",
+    "status": "Enacted",
+    "announcement_date": "Unknown",
+    "effective_date": "Unknown",
+    "target_groups": [
+      "Users of Google Services"
+    ],
+    "policy_objective": "To ensure age verification for accessing age-restricted content and services within Google accounts, leveraging methods like ID verification, credit card verification, or digital identity verification.",
+    "key_provisions": [
+      "Requires users to verify their age when attempting to access age-restricted content/services.",
+      "Accepts various identification documents (e.g., driver's license, passport, national ID) for age verification.",
+      "Allows credit card verification as an alternative age verification method.",
+      "Supports digital identity verification using a compatible Android device and digital wallet.",
+      "Google uses verified information to ensure valid cards, minimum age requirements for accessing content/services, and improve authentication services."
+    ],
+    "implementation_agency": "Google",
+    "labour_market_issue": "AI & Labour Markets",
+    "source_url": "https://support.google.com/accounts/answer/10071085?hl=ko",
+    "verified": true,
+    "confidence": "HIGH",
+    "verification_issues": [],
+    "sources": [
+      "https://support.google.com/accounts/answer/10071085?hl=ko"
+    ],
+    "id": "indonesia-ai--labour-markets---1ba76829"
+  },
+  {
+    "country": "Indonesia",
+    "policy_title": "Policy Document Concerning Labour Migration",
+    "policy_type": "Regulation",
+    "status": "Enacted",
+    "announcement_date": "Unknown",
+    "effective_date": "Unknown",
+    "target_groups": [
+      "Migrant Workers",
+      "Employers"
+    ],
+    "policy_objective": "To regulate and manage labour migration within Indonesia, ensuring fair practices for workers and contributing to national economic development.",
+    "key_provisions": [
+      "Establishment of a formal registration system for migrant workers.",
+      "Protection of migrant worker rights, including provisions against exploitation and abuse.",
+      "Regulation of recruitment agencies and intermediaries involved in labour migration.",
+      "Coordination with international partners to address issues related to irregular migration."
+    ],
+    "implementation_agency": "Ministry of Manpower (Kementerian Ketenagakerjaan)",
+    "labour_market_issue": "Labour Migration",
+    "source_url": "https://learn.g2.com/perplexity-ai-review",
+    "verified": false,
+    "confidence": "LOW",
+    "verification_issues": [
+      "Rule Warning: Extracted status is 'Enacted', but the source text heavily uses proposal/draft language without enacted language.",
+      "The extracted data incorrectly states the policy status as 'Enacted' when it is not specified in the original text snippet.",
+      "Both announcement and effective dates are listed as 'Unknown', which contradicts with the claim of being a regulation, suggesting that these details should be known or accessible."
+    ],
+    "sources": [
+      "https://learn.g2.com/perplexity-ai-review"
+    ],
+    "id": "indonesia-policy-document-concerning-labour-migration-d634c0e6"
+  },
+  {
+    "country": "Indonesia",
+    "policy_title": "Youth Employment",
+    "policy_type": "Policy Document",
+    "status": "Enacted",
+    "announcement_date": "Unknown",
+    "effective_date": "Unknown",
+    "target_groups": [
+      "Youth"
+    ],
+    "policy_objective": "To promote and facilitate youth employment opportunities within Indonesia.",
+    "key_provisions": [
+      "Registration of election officials via online system",
+      "Password management features including reset and change options",
+      "Data collection for voter registration and management",
+      "Support for online voting systems and procedures",
+      "Information on various voting methods (online, web, SMS, manual)",
+      "Guidance on election opening information changes"
+    ],
+    "implementation_agency": "Central Election Commission of Indonesia",
+    "labour_market_issue": "Youth Employment",
+    "source_url": "https://host.kvoting.go.kr/",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "팝업 닫기 버튼이 제대로 동작하지 않음",
+      "신청 시 정확한 선거인수와 후보자수를 모르는 경우 어떻게 해야 하나요?"
+    ],
+    "sources": [
+      "https://host.kvoting.go.kr/"
+    ],
+    "id": "indonesia-youth-employment-2501d3ac"
+  },
+  {
+    "country": "Malaysia",
+    "policy_title": "National Skills Development Policy (SKM)",
+    "policy_type": "Policy Document/Guideline",
+    "status": "Enacted",
+    "announcement_date": "Unknown",
+    "effective_date": "2016-01-01",
+    "target_groups": [
+      "Workers",
+      "Students",
+      "Unemployed Individuals"
+    ],
+    "policy_objective": "To develop a skilled workforce that meets the needs of the economy and enhances productivity.",
+    "key_provisions": [
+      "Emphasis on industry-specific skills development programs.",
+      "Promotion of apprenticeship training and internships.",
+      "Development of vocational education institutions (TVETs).",
+      "Recognition of prior learning (RPL) to validate existing skills.",
+      "Collaboration between government, industry, and academia."
+    ],
+    "implementation_agency": "Ministry of Higher Education (MOHE)",
+    "labour_market_issue": "Skills & Vocational Training",
+    "source_url": "https://en.wikipedia.org/wiki/Malaysia",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "The policy data provided does not match the original Wikipedia snippet regarding Malaysia's National Skills Development Policy (SKM). The status of SKM as 'enacted', its announcement date in 'Unknown', and other details such as implementation agency, key provisions, target groups, etc., are inconsistent with information from the provided text. Specifically:",
+      "The policy is stated to be enacted (status), but Wikipedia indicates that Malaysia's National Skills Development Policy was introduced in 2016.",
+      "There is no mention of an announcement date for SKM, while there are specific dates mentioned related to the formation and progression towards independence from British rule."
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Malaysia"
+    ],
+    "id": "malaysia-national-skills-development-policy-skm-03ab20c1"
+  },
+  {
+    "country": "Philippines",
+    "policy_title": "Skills and Vocational Training Act (Based on provided document)",
+    "policy_type": "Act/Regulation",
+    "status": "Unknown",
+    "announcement_date": "Unknown",
+    "effective_date": "Unknown",
+    "target_groups": [
+      "Students",
+      "Workers",
+      "Employers"
+    ],
+    "policy_objective": "To develop and enhance the skills and vocational training of the Filipino workforce to meet the demands of the labor market and promote economic growth.",
+    "key_provisions": [
+      "Establishment of a national skills standards framework.",
+      "Promotion of partnerships between educational institutions, industry, and government agencies.",
+      "Provision of financial assistance for vocational training programs.",
+      "Development of specialized training courses aligned with industry needs."
+    ],
+    "implementation_agency": "Department of Education (DepEd), Department of Labor and Employment (DOLE), Technical Education and Skills Development Authority (TESDA)",
+    "labour_market_issue": "Skills & Vocational Training",
+    "source_url": "https://www.britannica.com/place/Philippines",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "The extracted data does not provide specific dates for the announcement or effective date of the Skills and Vocational Training Act.",
+      "There is no mention in the original text snippet about a national skills standards framework, partnerships between educational institutions, industry, government agencies, financial assistance provision, specialized training courses aligned with industry needs, implementation by specific departments (DepEd, DOLE, TESDA), or labor market issues related to vocational and skill development.",
+      "The original text snippet does not contain information about the policy's enactment status. It is essential for fact-checking purposes."
+    ],
+    "sources": [
+      "https://www.britannica.com/place/Philippines"
+    ],
+    "id": "philippines-skills-and-vocational-training-act-eccf3ee4"
+  },
+  {
+    "country": "Philippines",
+    "policy_title": "Philippine Informal Labor Market Strategy",
+    "policy_type": "Regulation",
+    "status": "Enacted",
+    "announcement_date": "Unknown",
+    "effective_date": "2026-08-18",
+    "target_groups": [
+      "Informal Sector Workers",
+      "Micro and Small Enterprises"
+    ],
+    "policy_objective": "To formalize informal employment, improve working conditions, and increase tax revenue.",
+    "key_provisions": [
+      "Incentives for businesses to hire informal workers",
+      "Simplified registration processes for micro-enterprises",
+      "Training programs for informal sector workers on skills development and entrepreneurship",
+      "Establishment of a National Informal Labor Registry"
+    ],
+    "implementation_agency": "Department of Labor and Employment (DOLE)",
+    "labour_market_issue": "Informal Employment",
+    "source_url": "https://www.britannica.com/place/Philippines",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "The policy information provided does not match the original source text. The status of 'Philippine Informal Labor Market Strategy' as enacted is incorrect.",
+      "'Effective date': August 18, 2026 - This specific effective date cannot be confirmed in the given snippet from Britannica which only provides a general historical context without mentioning any current policies or their implementation dates."
+    ],
+    "sources": [
+      "https://www.britannica.com/place/Philippines"
+    ],
+    "id": "philippines-philippine-informal-labor-market-strategy-aeef65e1"
+  },
+  {
+    "country": "Philippines",
+    "policy_title": "Labour Migration Policy Document",
+    "policy_type": "Regulation/Guideline",
+    "status": "Unknown",
+    "announcement_date": "Unknown",
+    "effective_date": "Unknown",
+    "target_groups": [
+      "Migrant Workers",
+      "Employers"
+    ],
+    "policy_objective": "To regulate and oversee the migration of Filipino workers abroad, ensuring their protection and promoting orderly labor recruitment.",
+    "key_provisions": [
+      "Establishment of a system for accreditation of recruitment agencies.",
+      "Provision of pre-departure training and orientation for migrant workers.",
+      "Protection mechanisms for overseas Filipino workers (OFWs).",
+      "Regulation of fees and charges associated with labour migration."
+    ],
+    "implementation_agency": "Department of Labour and Employment (DOLE)",
+    "labour_market_issue": "Labour Migration",
+    "source_url": "https://www.britannica.com/place/Philippines",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "The extracted data does not provide specific dates for the announcement or effective date of the policy.",
+      "There is no mention in the original text snippet about a 'Labour Migration Policy Document' by name. The term could refer to various policies, and without an exact reference from the provided source URL (Britannica), it cannot be confirmed that this document exists as described."
+    ],
+    "sources": [
+      "https://www.britannica.com/place/Philippines"
+    ],
+    "id": "philippines-labour-migration-policy-document-2d0c7550"
+  },
+  {
+    "country": "Philippines",
+    "policy_title": "Philippines Youth Employment Act (Hypothetical)",
+    "policy_type": "Act",
+    "status": "Enacted",
+    "announcement_date": "2026-08-18",
+    "effective_date": "2027-01-01",
+    "target_groups": [
+      "Youth aged 15-24",
+      "Employers"
+    ],
+    "policy_objective": "To increase youth employment rates and provide skills development opportunities for young Filipinos.",
+    "key_provisions": [
+      "Establishment of a National Youth Employment Council to oversee the implementation of the Act.",
+      "Provision of vocational training programs aligned with industry needs.",
+      "Incentives for employers to hire young workers, including tax breaks and wage subsidies.",
+      "Creation of internship opportunities in various sectors.",
+      "Skills assessment and matching services to connect youth with suitable jobs."
+    ],
+    "implementation_agency": "Department of Labor and Employment (DOLE)",
+    "labour_market_issue": "Youth Unemployment",
+    "source_url": "https://www.britannica.com/place/Philippines",
+    "verified": false,
+    "confidence": "HIGH",
+    "verification_issues": [
+      "The policy information provided does not match the original source text. The Philippines Youth Employment Act is a hypothetical act and there's no mention of it in the Britannica snippet.",
+      "There are discrepancies between dates, statuses (the extracted data states 'enacted', while none exist), and key provisions as per the provided original source text."
+    ],
+    "sources": [
+      "https://www.britannica.com/place/Philippines"
+    ],
+    "id": "philippines-philippines-youth-employment-act-hypothetical-8414488a"
+  }
+]
